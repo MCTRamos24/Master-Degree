@@ -7,6 +7,15 @@ This repository contains my independently written and organized notes for course
 
 Most notes are written in **LaTeX** and are also provided as compiled **PDF documents** whenever available.
 
+## Course PDFs
+
+- [Automatic Verification of Intelligent Systems](AutomaticVerificationOfIntelligentSystems/AutomaticVerificationOfIntelligentSystems.pdf)
+- [Big Data Computing](BigDataComputing/BigDataComputing.pdf)
+- [Biometric Systems](BiometricSystems/BiometricSystems.pdf)
+- [Computer Vision](ComputerVision/ComputerVision.pdf)
+- [Foundations of Data Science](FoundationsOfDataScience/FoundationsOfDataScience.pdf)
+- [Machine Learning Security](MachineLearningSecurity/MachineLearningSecurity.pdf)
+
 
 ## 📝 About the Notes
 

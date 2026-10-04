@@ -1,11 +1,16 @@
 # Ignore everything by default
 *
 
-# Allow directories so Git can find PDFs inside them
+# Allow directories so Git can find the published course notes
 !*/
 
-# Publish PDFs
-!**/*.pdf
+# Publish one PDF directly inside each course folder
+!/AutomaticVerificationOfIntelligentSystems/AutomaticVerificationOfIntelligentSystems.pdf
+!/BigDataComputing/BigDataComputing.pdf
+!/BiometricSystems/BiometricSystems.pdf
+!/ComputerVision/ComputerVision.pdf
+!/FoundationsOfDataScience/FoundationsOfDataScience.pdf
+!/MachineLearningSecurity/MachineLearningSecurity.pdf
 
 # Publish repository documentation
 !/README.md
