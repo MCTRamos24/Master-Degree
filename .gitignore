@@ -1,12 +1,12 @@
-# Ignore everything
+# Ignore everything by default
 *
 
-# Allow folders so Git can reach PDFs inside them
+# Allow directories so Git can find PDFs inside them
 !*/
 
-# Keep PDFs anywhere in the repository
+# Publish PDFs
 !**/*.pdf
 
-# Keep repository documentation
-!README.md
-!.gitignore
+# Publish repository documentation
+!/README.md
+!/.gitignore
