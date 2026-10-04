@@ -1,0 +1,1155 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(FoundationsOfDataScience.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size11.clo))
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
+(C:\Program Files\MiKTeX\tex/generic/babel/locale/en\babel-english.tex)))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\newtxtext.sty
+`newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes a
+nd its extensions (msharpe)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def))
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty)
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty))
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def)
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx))
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty)
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\keyval.tex))))
+(C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/xstring\xstring.tex))
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/binhex\binhex.tex)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/figureversions\figurevers
+ions.sty)))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\newtxmath.sty
+`newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Program Files\MiKTeX\tex/latex/oberdiek\centernot.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/binhex\binhex.tex)
+amsthm NOT loaded
+) (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.sty
+
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype-pdfte
+x.def)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.cfg))
+ (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/setspace\setspace.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/mathtools\mathtools.sty
+(C:\Program Files\MiKTeX\tex/latex/tools\calc.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/mathtools\mhsetup.sty))
+(C:\Program Files\MiKTeX\tex/latex/tools\bm.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/multirow\multirow.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/makecell\makecell.sty)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg)))
+(C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)))
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.
+tex)) (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg)
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.co
+de.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.
+tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmeti
+cs.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.t
+ex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.te
+x)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code
+.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.
+tex) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.te
+x) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty))
+ (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.
+tex) (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rytopaths.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.t
+ex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rypositioning.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryshapes.geometric.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geom
+etric.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryfit.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rycalc.code.tex) (C:\Program Files\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp
+_loader.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp
+_pgfutil-common-lists.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructu
+re.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructu
+reext.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.
+tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code
+.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code
+.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.
+tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex
+))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshadi
+ng.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshadin
+g.pgfsys-pdftex.def)))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.pathmorphing.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecora
+tions.pathmorphing.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.pathreplacing.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecora
+tions.pathreplacing.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourl
+ua.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryplotmarks.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+))) (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/float\float.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/placeins\placeins.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/needspace\needspace.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty)
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+(C:\Program Files\MiKTeX\tex/latex/tools\verbatim.sty)
+(C:\Program Files\MiKTeX\tex/latex/environ\environ.sty
+(C:\Program Files\MiKTeX\tex/latex/trimspaces\trimspaces.sty))
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.8.0'
+
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/tikzfill\tikzfill.image.s
+ty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/tikzfill\tikzlibraryfill.
+image.code.tex))
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.8.0'
+)) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.8.0'
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/pdfcol\pdfcol.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+))) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcblistingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.8.0'
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.8.0'
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+(C:\Program Files\MiKTeX\tex/latex/listings\lstpatch.sty)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg))
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.8.0'
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.8.0'
+)))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/listingsutf8\listingsutf8
+.sty (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/stringenc\stringenc.sty
+
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+)))) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.8.0'
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryfadings.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryfadings.code.tex))
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.8.0'
+)) (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/titlesec\titlesec.sty)
+ (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefineke
+ys.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitle
+string.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty))
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.s
+ty))) (C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilec
+heck.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecou
+nter.sty)))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/cleveref\cleveref.sty)
+==> First Aid for cleveref.sty applied!
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/tocloft\tocloft.sty)
+(assets/concept-diagrams.tex)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\t1ntxtlf.fd)
+(FoundationsOfDataScience.aux)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\omlntxmi.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\untxexa.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\lmsntxsy.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\lmxntxexx.fd)
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-ptm.cfg)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+(FoundationsOfDataScience.out) (FoundationsOfDataScience.out)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd)
+[1{C:/Users/Matt Ramos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Use
+rs/Matt Ramos/AppData/Roaming/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/U
+sers/Matt Ramos/AppData/Roaming/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}
+{C:/Users/Matt Ramos/AppData/Roaming/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}
+ <./assets/sapienza-logo.png>] (FoundationsOfDataScience.toc
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\ot1minntx.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\untxmia.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\untxsym.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\untxsyc.fd))
+[1]
+[1]
+[2]
+[3]
+[4 <./assets/regression.png (PNG copy)> <./assets/graph_regression.png (PNG cop
+y)>]
+[5 <./assets/text_classification.png (PNG copy)> <./assets/music_classification
+.png (PNG copy)> <./assets/image_classification.png (PNG copy)>]
+[6 <./assets/supervised_model.png (PNG copy)> <./assets/image_segmentation.png 
+(PNG copy)>]
+[7 <./assets/depth_estimation.png (PNG copy)> <./assets/pose_estimation.png (PN
+G copy)> <./assets/translation.png (PNG copy)>]
+[8 <./assets/image_captioning.png (PNG copy)> <./assets/text_to_image.png (PNG 
+copy)>]
+[9 <./assets/generative_cats.png (PNG copy)> <./assets/latent_variables.png (PN
+G copy)> <./assets/deepcluster.png (PNG copy)>]
+[10 <./assets/rl_chess.png (PNG copy)>]
+[11]
+[12{C:/Users/Matt Ramos/AppData/Roaming/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tl
+f.enc} <./assets/iris.png (PNG copy)>]
+[13]
+[14 <./assets/vectors_visual.png (PNG copy)>]
+[15 <./assets/basis_visual.png (PNG copy)>]
+[16 <./assets/standard_basis_example.png (PNG copy)>]
+[17 <./assets/nonstandard_basis_example.png (PNG copy)> <./assets/nonstandard_w
+eights.png (PNG copy)>]
+[18 <./assets/encoded_data.png (PNG copy)> <./assets/subspace_3d.png (PNG copy)
+>]
+[19 <./assets/encoding_decoding.png (PNG copy)>]
+[20 <./assets/orthonormal_projection.png (PNG copy)>]
+[21] (FoundationsOfDataScience.aux) )<C:/Users/Matt Ramos/AppData/Roaming/MiKTe
+X/fonts/type1/public/newtx/NewTXBMI.pfb><C:/Users/Matt Ramos/AppData/Roaming/Mi
+KTeX/fonts/type1/public/newtx/NewTXBMI7.pfb><C:/Users/Matt Ramos/AppData/Roamin
+g/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/Matt Ramos/AppData/Roam
+ing/MiKTeX/fonts/type1/public/newtx/NewTXMI5.pfb><C:/Users/Matt Ramos/AppData/R
+oaming/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/Matt Ramos/AppDat
+a/Roaming/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/Matt Ramos/AppD
+ata/Roaming/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/Matt Ramos/AppD
+ata/Roaming/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/Matt Ramos/App
+Data/Roaming/MiKTeX/fonts/type1/public/newtx/txsym.pfb><C:/Users/Matt Ramos/App
+Data/Roaming/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/Matt Ramos/App
+Data/Roaming/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/Matt Ramos/AppD
+ata/Roaming/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/Matt Ramos/AppDa
+ta/Roaming/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
+Output written on FoundationsOfDataScience.pdf (23 pages, 11087636 bytes).
+Transcript written on FoundationsOfDataScience.log.
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(FoundationsOfDataScience.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size11.clo))
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
+(C:\Program Files\MiKTeX\tex/generic/babel/locale/en\babel-english.tex)))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\newtxtext.sty
+`newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes a
+nd its extensions (msharpe)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def))
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty)
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty))
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def)
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx))
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty)
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\keyval.tex))))
+(C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/xstring\xstring.tex))
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/binhex\binhex.tex)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/figureversions\figurevers
+ions.sty)))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\newtxmath.sty
+`newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Program Files\MiKTeX\tex/latex/oberdiek\centernot.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/binhex\binhex.tex)
+amsthm NOT loaded
+) (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.sty
+
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype-pdfte
+x.def)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.cfg))
+ (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/setspace\setspace.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/mathtools\mathtools.sty
+(C:\Program Files\MiKTeX\tex/latex/tools\calc.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/mathtools\mhsetup.sty))
+(C:\Program Files\MiKTeX\tex/latex/tools\bm.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/multirow\multirow.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/makecell\makecell.sty)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg)))
+(C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)))
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.
+tex)) (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg)
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.co
+de.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.
+tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmeti
+cs.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.t
+ex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.te
+x)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code
+.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.
+tex) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.te
+x) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty))
+ (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.
+tex) (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rytopaths.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.t
+ex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rypositioning.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryshapes.geometric.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geom
+etric.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryfit.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rycalc.code.tex) (C:\Program Files\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp
+_loader.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp
+_pgfutil-common-lists.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructu
+re.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructu
+reext.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.
+tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code
+.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code
+.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.
+tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex
+))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshadi
+ng.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshadin
+g.pgfsys-pdftex.def)))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.pathmorphing.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecora
+tions.pathmorphing.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.pathreplacing.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecora
+tions.pathreplacing.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourl
+ua.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryplotmarks.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+))) (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/float\float.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/placeins\placeins.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/needspace\needspace.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty)
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+(C:\Program Files\MiKTeX\tex/latex/tools\verbatim.sty)
+(C:\Program Files\MiKTeX\tex/latex/environ\environ.sty
+(C:\Program Files\MiKTeX\tex/latex/trimspaces\trimspaces.sty))
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.8.0'
+
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/tikzfill\tikzfill.image.s
+ty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/tikzfill\tikzlibraryfill.
+image.code.tex))
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.8.0'
+)) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.8.0'
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/pdfcol\pdfcol.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+))) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcblistingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.8.0'
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.8.0'
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+(C:\Program Files\MiKTeX\tex/latex/listings\lstpatch.sty)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg))
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.8.0'
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.8.0'
+)))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/listingsutf8\listingsutf8
+.sty (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/stringenc\stringenc.sty
+
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+)))) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.8.0'
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryfadings.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryfadings.code.tex))
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.8.0'
+)) (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/titlesec\titlesec.sty)
+ (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefineke
+ys.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitle
+string.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty))
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.s
+ty))) (C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilec
+heck.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecou
+nter.sty)))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/cleveref\cleveref.sty)
+==> First Aid for cleveref.sty applied!
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/tocloft\tocloft.sty)
+(assets/concept-diagrams.tex)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\t1ntxtlf.fd)
+(FoundationsOfDataScience.aux)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\omlntxmi.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\untxexa.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\lmsntxsy.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\lmxntxexx.fd)
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-ptm.cfg)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+(FoundationsOfDataScience.out) (FoundationsOfDataScience.out)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd)
+[1{C:/Users/Matt Ramos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Use
+rs/Matt Ramos/AppData/Roaming/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/U
+sers/Matt Ramos/AppData/Roaming/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}
+{C:/Users/Matt Ramos/AppData/Roaming/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}
+ <./assets/sapienza-logo.png>] (FoundationsOfDataScience.toc
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\ot1minntx.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\untxmia.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\untxsym.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\untxsyc.fd))
+[1]
+[1]
+[2]
+[3]
+[4 <./assets/regression.png (PNG copy)> <./assets/graph_regression.png (PNG cop
+y)>]
+[5 <./assets/text_classification.png (PNG copy)> <./assets/music_classification
+.png (PNG copy)> <./assets/image_classification.png (PNG copy)>]
+[6 <./assets/supervised_model.png (PNG copy)> <./assets/image_segmentation.png 
+(PNG copy)>]
+[7 <./assets/depth_estimation.png (PNG copy)> <./assets/pose_estimation.png (PN
+G copy)> <./assets/translation.png (PNG copy)>]
+[8 <./assets/image_captioning.png (PNG copy)> <./assets/text_to_image.png (PNG 
+copy)>]
+[9 <./assets/generative_cats.png (PNG copy)> <./assets/latent_variables.png (PN
+G copy)> <./assets/deepcluster.png (PNG copy)>]
+[10 <./assets/rl_chess.png (PNG copy)>]
+[11]
+[12{C:/Users/Matt Ramos/AppData/Roaming/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tl
+f.enc} <./assets/iris.png (PNG copy)>]
+[13]
+[14 <./assets/vectors_visual.png (PNG copy)>]
+[15 <./assets/basis_visual.png (PNG copy)>]
+[16 <./assets/standard_basis_example.png (PNG copy)>]
+[17 <./assets/nonstandard_basis_example.png (PNG copy)> <./assets/nonstandard_w
+eights.png (PNG copy)>]
+[18 <./assets/encoded_data.png (PNG copy)> <./assets/subspace_3d.png (PNG copy)
+>]
+[19 <./assets/encoding_decoding.png (PNG copy)>]
+[20 <./assets/orthonormal_projection.png (PNG copy)>]
+[21] (FoundationsOfDataScience.aux) )<C:/Users/Matt Ramos/AppData/Roaming/MiKTe
+X/fonts/type1/public/newtx/NewTXBMI.pfb><C:/Users/Matt Ramos/AppData/Roaming/Mi
+KTeX/fonts/type1/public/newtx/NewTXBMI7.pfb><C:/Users/Matt Ramos/AppData/Roamin
+g/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/Matt Ramos/AppData/Roam
+ing/MiKTeX/fonts/type1/public/newtx/NewTXMI5.pfb><C:/Users/Matt Ramos/AppData/R
+oaming/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/Matt Ramos/AppDat
+a/Roaming/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/Matt Ramos/AppD
+ata/Roaming/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/Matt Ramos/AppD
+ata/Roaming/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/Matt Ramos/App
+Data/Roaming/MiKTeX/fonts/type1/public/newtx/txsym.pfb><C:/Users/Matt Ramos/App
+Data/Roaming/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/Matt Ramos/App
+Data/Roaming/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/Matt Ramos/AppD
+ata/Roaming/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/Matt Ramos/AppDa
+ta/Roaming/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
+Output written on FoundationsOfDataScience.pdf (23 pages, 11087639 bytes).
+Transcript written on FoundationsOfDataScience.log.
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(FoundationsOfDataScience.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size11.clo))
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
+(C:\Program Files\MiKTeX\tex/generic/babel/locale/en\babel-english.tex)))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\newtxtext.sty
+`newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes a
+nd its extensions (msharpe)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def))
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty)
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty))
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def)
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx))
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty)
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\keyval.tex))))
+(C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/xstring\xstring.tex))
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/binhex\binhex.tex)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/figureversions\figurevers
+ions.sty)))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\newtxmath.sty
+`newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Program Files\MiKTeX\tex/latex/oberdiek\centernot.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/binhex\binhex.tex)
+amsthm NOT loaded
+) (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.sty
+
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype-pdfte
+x.def)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.cfg))
+ (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/setspace\setspace.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/mathtools\mathtools.sty
+(C:\Program Files\MiKTeX\tex/latex/tools\calc.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/mathtools\mhsetup.sty))
+(C:\Program Files\MiKTeX\tex/latex/tools\bm.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/multirow\multirow.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/makecell\makecell.sty)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg)))
+(C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)))
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.
+tex)) (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg)
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.co
+de.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.
+tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmeti
+cs.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.t
+ex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.te
+x)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code
+.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.
+tex) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.te
+x) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty))
+ (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.
+tex) (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rytopaths.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.t
+ex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rypositioning.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryshapes.geometric.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geom
+etric.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryfit.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rycalc.code.tex) (C:\Program Files\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp
+_loader.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp
+_pgfutil-common-lists.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructu
+re.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructu
+reext.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.
+tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code
+.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code
+.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.
+tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex
+))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshadi
+ng.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshadin
+g.pgfsys-pdftex.def)))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.pathmorphing.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecora
+tions.pathmorphing.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.pathreplacing.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecora
+tions.pathreplacing.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourl
+ua.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryplotmarks.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+))) (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/float\float.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/placeins\placeins.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/needspace\needspace.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty)
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+(C:\Program Files\MiKTeX\tex/latex/tools\verbatim.sty)
+(C:\Program Files\MiKTeX\tex/latex/environ\environ.sty
+(C:\Program Files\MiKTeX\tex/latex/trimspaces\trimspaces.sty))
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.8.0'
+
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/tikzfill\tikzfill.image.s
+ty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/tikzfill\tikzlibraryfill.
+image.code.tex))
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.8.0'
+)) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.8.0'
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/pdfcol\pdfcol.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+))) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcblistingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.8.0'
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.8.0'
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+(C:\Program Files\MiKTeX\tex/latex/listings\lstpatch.sty)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg))
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.8.0'
+(C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.8.0'
+)))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/listingsutf8\listingsutf8
+.sty (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/stringenc\stringenc.sty
+
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+)))) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.8.0'
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.8.0'
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryfadings.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryfadings.code.tex))
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.8.0'
+)) (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/titlesec\titlesec.sty)
+ (C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefineke
+ys.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitle
+string.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty))
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.s
+ty))) (C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilec
+heck.sty
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecou
+nter.sty)))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/cleveref\cleveref.sty)
+==> First Aid for cleveref.sty applied!
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/tocloft\tocloft.sty)
+(assets/concept-diagrams.tex)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\t1ntxtlf.fd)
+(FoundationsOfDataScience.aux)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\omlntxmi.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\untxexa.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\lmsntxsy.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\lmxntxexx.fd)
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg))
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-ptm.cfg)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+(FoundationsOfDataScience.out) (FoundationsOfDataScience.out)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd)
+[1{C:/Users/Matt Ramos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Use
+rs/Matt Ramos/AppData/Roaming/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/U
+sers/Matt Ramos/AppData/Roaming/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}
+{C:/Users/Matt Ramos/AppData/Roaming/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}
+ <./assets/sapienza-logo.png>] (FoundationsOfDataScience.toc
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\ot1minntx.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\untxmia.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\untxsym.fd)
+(C:\Users\Matt Ramos\AppData\Roaming\MiKTeX\tex/latex/newtx\untxsyc.fd))
+[1]
+[1]
+[2]
+[3]
+[4 <./assets/regression.png (PNG copy)> <./assets/graph_regression.png (PNG cop
+y)>]
+[5 <./assets/text_classification.png (PNG copy)> <./assets/music_classification
+.png (PNG copy)> <./assets/image_classification.png (PNG copy)>]
+[6 <./assets/supervised_model.png (PNG copy)> <./assets/image_segmentation.png 
+(PNG copy)>]
+[7 <./assets/depth_estimation.png (PNG copy)> <./assets/pose_estimation.png (PN
+G copy)> <./assets/translation.png (PNG copy)>]
+[8 <./assets/image_captioning.png (PNG copy)> <./assets/text_to_image.png (PNG 
+copy)>]
+[9 <./assets/generative_cats.png (PNG copy)> <./assets/latent_variables.png (PN
+G copy)> <./assets/deepcluster.png (PNG copy)>]
+[10 <./assets/rl_chess.png (PNG copy)>]
+[11]
+[12{C:/Users/Matt Ramos/AppData/Roaming/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tl
+f.enc} <./assets/iris.png (PNG copy)>]
+[13]
+[14 <./assets/vectors_visual.png (PNG copy)>]
+[15 <./assets/basis_visual.png (PNG copy)>]
+[16 <./assets/standard_basis_example.png (PNG copy)>]
+[17 <./assets/nonstandard_basis_example.png (PNG copy)> <./assets/nonstandard_w
+eights.png (PNG copy)>]
+[18 <./assets/encoded_data.png (PNG copy)> <./assets/subspace_3d.png (PNG copy)
+>]
+[19 <./assets/encoding_decoding.png (PNG copy)>]
+[20 <./assets/orthonormal_projection.png (PNG copy)>]
+[21] (FoundationsOfDataScience.aux) )<C:/Users/Matt Ramos/AppData/Roaming/MiKTe
+X/fonts/type1/public/newtx/NewTXBMI.pfb><C:/Users/Matt Ramos/AppData/Roaming/Mi
+KTeX/fonts/type1/public/newtx/NewTXBMI7.pfb><C:/Users/Matt Ramos/AppData/Roamin
+g/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/Matt Ramos/AppData/Roam
+ing/MiKTeX/fonts/type1/public/newtx/NewTXMI5.pfb><C:/Users/Matt Ramos/AppData/R
+oaming/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/Matt Ramos/AppDat
+a/Roaming/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/Matt Ramos/AppD
+ata/Roaming/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/Matt Ramos/AppD
+ata/Roaming/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/Matt Ramos/App
+Data/Roaming/MiKTeX/fonts/type1/public/newtx/txsym.pfb><C:/Users/Matt Ramos/App
+Data/Roaming/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/Matt Ramos/App
+Data/Roaming/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/Matt Ramos/AppD
+ata/Roaming/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/Matt Ramos/AppDa
+ta/Roaming/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
+Output written on FoundationsOfDataScience.pdf (23 pages, 11087639 bytes).
+Transcript written on FoundationsOfDataScience.log.

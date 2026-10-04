@@ -1,0 +1,23 @@
+\begin{figure}[!htbp]
+\centering
+\begin{tikzpicture}[font=\small,x=1.35cm,y=1.15cm]
+\fill[PaleGreen] (0,1.1) rectangle (2.1,3);
+\fill[PaleRed] (0,0) rectangle (2.1,1.1);
+\fill[LightGrey!55] (2.1,1.1) rectangle (3,3);
+\fill[PaleAmber] (2.1,0) rectangle (3,1.1);
+\draw[thick,MidGrey] (0,0) rectangle (3,3);
+\draw[MidGrey] (2.1,0)--(2.1,3); \draw[MidGrey] (0,1.1)--(3,1.1);
+\foreach \x/\y/\v in {0/3/1,3/3/2,0/0/3,3/0/4}{\fill[SapienzaRed] (\x,\y) circle(2pt);}
+\node[above left] at (0,3) {$V_1$}; \node[above right] at (3,3) {$V_2$};
+\node[below left] at (0,0) {$V_3$}; \node[below right] at (3,0) {$V_4$};
+\fill[SapienzaRed] (2.1,1.1) circle(2pt) node[above left] {$q$};
+\node at (2.55,0.55) {$A_1$}; \node at (1.05,0.55) {$A_2$};
+\node at (2.55,2.05) {$A_3$}; \node at (1.05,2.05) {$A_4$};
+\draw[<->,MidGrey] (0,3.45)--node[above]{$d_1$}(2.1,3.45);
+\draw[<->,MidGrey] (2.1,3.45)--node[above]{$d_2$}(3,3.45);
+\draw[<->,MidGrey] (3.55,3)--node[right]{$d_3$}(3.55,1.1);
+\draw[<->,MidGrey] (3.55,1.1)--node[right]{$d_4$}(3.55,0);
+\end{tikzpicture}
+\caption{Bilinear geometry redrawn from the source: $d_1+d_2=d_3+d_4=1$ in the unit cell. Each corner uses the opposite rectangle's area; $Q$ is the value at $q$. The drawing is enlarged for readability.}
+\label{fig:bilinear-geometry}
+\end{figure}

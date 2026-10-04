@@ -1,0 +1,22 @@
+# LaTeX build / temporary files
+**/out/
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdv
+
+# Windows / editor files
+Thumbs.db
+.DS_Store
+.vscode/
