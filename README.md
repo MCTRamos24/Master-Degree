@@ -7,44 +7,6 @@ This repository contains my independently written and organized notes for course
 
 Most notes are written in **LaTeX** and are also provided as compiled **PDF documents** whenever available.
 
----
-
-## 📚 Courses
-
-| Course | Material |
-|---|---|
-| Automatic Verification of Intelligent Systems | [Open course folder](./AutomaticVerificationOfIntelligentSystems/) |
-| Big Data Computing | [Open course folder](./BigDataComputing/) |
-| Biometric Systems | [Open course folder](./BiometricSystems/) |
-| Computer Vision | [Open course folder](./ComputerVision/) |
-| Foundations of Data Science | [Open course folder](./FoundationsOfDataScience/) |
-| Machine Learning Security | [Open course folder](./MachineLearningSecurity/) |
-| Security in Software Applications | [Open course folder](./SecurityInSoftwareApplications/) |
-
-More courses and material may be added during the academic year.
-
----
-
-## 📂 Repository Structure
-
-```text
-Master-Degree/
-│
-├── AutomaticVerificationOfIntelligentSystems/
-├── BigDataComputing/
-├── BiometricSystems/
-├── ComputerVision/
-├── FoundationsOfDataScience/
-├── MachineLearningSecurity/
-├── SecurityInSoftwareApplications/
-│
-├── .gitignore
-└── README.md
-```
-
-Each course folder may contain LaTeX source files, compiled PDFs, figures, diagrams, assets, and supporting scripts.
-
----
 
 ## 📝 About the Notes
 
