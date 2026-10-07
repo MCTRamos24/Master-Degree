@@ -15,6 +15,7 @@ Most notes are written in **LaTeX** and are also provided as compiled **PDF docu
 - [Computer Vision](ComputerVision/ComputerVision.pdf)
 - [Foundations of Data Science](FoundationsOfDataScience/FoundationsOfDataScience.pdf)
 - [Machine Learning Security](MachineLearningSecurity/MachineLearningSecurity.pdf)
+- [Statistics for Management](StatisticsForManagement/StatisticsForManagement.pdf)
 
 
 ## 📝 About the Notes
