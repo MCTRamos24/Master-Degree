@@ -36,21 +36,9 @@
 \usepackage[skins,breakable]{tcolorbox}
 \usepackage{graphicx}
 \graphicspath{{cv_assets/}{./}}
-% Keep the notes buildable when the separately supplied figure assets are absent.
-% Use the same search order as graphicspath and restore each image automatically.
+% Missing assets are build errors so a published PDF cannot hide placeholders.
 \newcommand{\lectureimage}[3][0.36\textheight]{%
-  \IfFileExists{cv_assets/#3}{%
-    \includegraphics[width=#2,height=#1,keepaspectratio]{cv_assets/#3}%
-  }{%
-    \IfFileExists{#3}{%
-      \includegraphics[width=#2,height=#1,keepaspectratio]{#3}%
-    }{%
-      \PackageWarning{ComputerVision}{Missing figure: #3}%
-      \parbox[c][2cm][c]{#2}{\centering\small\sffamily
-        Figure unavailable\par\medskip
-        \texttt{\detokenize{#3}}}%
-    }%
-  }%
+  \includegraphics[width=#2,height=#1,keepaspectratio]{#3}%
 }
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,positioning,fit,calc,shapes.geometric,backgrounds,matrix,decorations.pathreplacing}
@@ -251,7 +239,7 @@
   \vspace{3em}
   {\color{SapienzaRed}\rule{2cm}{3pt}\par}
   \vfill
-  {\color{MidGrey}Computer Vision --- Marco Raoul Marini\par}
+  {\color{MidGrey}Computer Vision\par}
   \vfill
   {\small\color{MidGrey}Notes prepared by Matt Clifford Trinidad Ramos\par}
   \clearpage
